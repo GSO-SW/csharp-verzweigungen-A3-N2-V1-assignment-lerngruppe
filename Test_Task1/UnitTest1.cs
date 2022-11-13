@@ -15,8 +15,6 @@ namespace Test_Task1
         [TestCategory("InOut")]
         [TestProperty("GSO-DevGroup", "Kander")]
         [DataRow(0.0, 0.0, "Gleicher Wert")]
-        [DataRow(1.3, -1.2, "-1,2")]
-        [DataRow(-1.3, 1.2, "-1,3")]
         public void Test_InOut1(double value_1, double value_2, string result)
         {
             // Arrange
@@ -40,6 +38,33 @@ namespace Test_Task1
 
         }
 
+        [TestMethod, TestCategory("Task1")]
+        [TestCategory("InOut")]
+        [TestProperty("GSO-DevGroup", "Kander")]
+        [DataRow(1.3, -1.2, -1.2)]
+        [DataRow(-1.3, 1.2, -1.3)]
+        public void Test_InOut2(double value_1, double value_2, double result)
+        {
+            // Arrange
+            var writer = new StringWriter();
+            Console.SetOut(writer);
+
+
+            var textReader = new StringReader(@$"{value_1}
+{value_2}");
+
+            Console.SetIn(textReader);
+
+            // Act
+            Aufgabe_1.Aufgabe1();
+
+            // Assert
+
+            List<string> lines_list_check = new List<string> { $"Die kleinere Zahl ist: {result}" };
+
+            AssertTest(writer, lines_list_check);
+
+        }
 
         public static void AssertTest(StringWriter writer, List<string> lines_list_check)
         {
