@@ -67,16 +67,18 @@ Ein Programm soll den Benutzer nach zwei Zahlen fragen und anschließend das Min
 kleinere der beiden Zahlen ausgeben.
 
 > :information_source: **Hinweise**:exclamation:
+> + Sie müssen die Ausgabe unter der gestrichelten Linie erzeugen
 > + Sie müssen die Formatierung im Beispiel genau befolgen, um den Unittest zu bestehen
 > + Beachten Sie, dass die Ausgabe **nicht** gerundet wird
 
-Beispiel 1 (Gleicher Wert) Ausgabe/Ergebnis:
+Beispiel 1 Ausgabe/Ergebnis:
 
-<img src="./AddFiles/Task2_example1.jpg" width=100% >
+<img src="./AddFiles/Task1_example1.jpg" width=100% >
 
-Beispiel 2 Ausgabe/Ergebnis:
+Beispiel 2 (Gleicher Wert) Ausgabe/Ergebnis:
 
-<img src="./AddFiles/Task2_example2.jpg" width=100% >
+<img src="./AddFiles/Task1_example2.jpg" width=100% >
+
 ---
   
 ### Aufgabe 2: Herzinfarkt-Risiko-Test
@@ -94,12 +96,14 @@ Anmerkung: Hat eine Person Stress **und** Übergewicht, so beträgt ihr Herzinfa
 Tabelle 62%.
   
 > :information_source: **Hinweise**:exclamation:
+> + Sie müssen die Ausgabe unter der gestrichelten Linie erzeugen
 > + Sie müssen die Formatierung im Beispiel genau befolgen, um den Unittest zu bestehen
 > + Beachten Sie, dass der Benutzer die Fragen mit **true** oder **false** beantworten muss
+> + Fragen Sie zuerst nach dem Übergewicht und anschließend nach dem Stress
 
 Beispiel Ausgabe/Ergebnis:
 
-<img src="./AddFiles/Task3_example.jpg" width=100% >
+<img src="./AddFiles/Task2_example.jpg" width=100% >
   
 ---
 
@@ -114,12 +118,15 @@ Hinweis: Die Potenz einer Zahl berechnen Sie mit der Methode 'Math.Pow()'.
     double x = Math.Pow(2,3) // x=2^3
   
 > :information_source: **Hinweise**:exclamation:
+> + Sie müssen die Ausgabe unter der gestrichelten Linie erzeugen
 > + Sie müssen die Formatierung im Beispiel genau befolgen, um den Unittest zu bestehen
+> + Lesen Sie die Eingaben des benutzers in folgender Reihenfolge ein: Zahl1, Zahl2 anschließend Auswahl
 
 
 Beispiel Ausgabe/Ergebnis:
 
-<img src="./AddFiles/Task4_example.jpg" width=100% >
+<img src="./AddFiles/Task3_example.jpg" width=100% >
+
 ---
   
 ### Aufgabe 4: Arbeit einreichen
