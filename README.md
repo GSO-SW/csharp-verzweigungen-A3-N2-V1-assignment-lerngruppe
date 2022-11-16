@@ -31,7 +31,11 @@ Dieser Auftrag hat folgende Ziele:
 + Anweisungen unter verschiedenen Bedingungen
 
 ## :bookmark_tabs: Informationsquelle
-Das Informationsmaterial zur Aufgabe finden Sie [hier](./AddFiles/SAS_Verzweigungen_Info.pdf)
+Das Informationsmaterial zur Aufgabe finden Sie hier:   
+[Struktogramme](./AddFiles/SAS_Struktogramm_Info.pdf)   
+[Verzweigungen in C#](./AddFiles/SAS_Verzweigungen_Info.pdf)
+
+
   
 ## :white_check_mark: Aufgaben
 
