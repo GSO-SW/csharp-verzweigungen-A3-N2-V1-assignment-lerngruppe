@@ -146,10 +146,10 @@ Beispiel Ausgabe/Ergebnis:
 
 <img src="./AddFiles/Task3_example.jpg" width=100% >   
 
-**a)** Fertigen Sie ein entsprechendes Struktrogramm an und laden Sie es unter der Bezeichnung "Herzinfarkt_Risiko_STR.jpg" in den Ordner AddFiles hoch.    
+**a)** Fertigen Sie ein entsprechendes Struktrogramm an und laden Sie es unter der Bezeichnung "Rechner_STR.jpg" in den Ordner AddFiles hoch.    
     :exclamation: Arbeiten Sie in Zweierteams :busts_in_silhouette:
 
-<img src="./AddFiles/Herzinfarkt_Risiko_STR.jpg" width=50% >
+<img src="./AddFiles/Rechner_STR.jpg" width=50% >
 
 **b)** Implementieren Sie das Programm in C#.   
     :exclamation: Arbeiten Sie in Zweierteams :busts_in_silhouette:
