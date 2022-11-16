@@ -64,7 +64,7 @@ Schließlich schreiben Sie die Konsolenausgabe, die die Ausgabe erzeugen. In ein
 ### Aufgabe 1: Die kleinere Zahl
 
 Ein Programm soll den Benutzer nach zwei Zahlen fragen und anschließend das Minimum, also die 
-kleinere der beiden Zahlen ausgeben.
+kleinere der beiden Zahlen ausgeben. 
 
 > :information_source: **Hinweise**:exclamation:
 > + Sie müssen die Ausgabe unter der gestrichelten Linie erzeugen
@@ -78,6 +78,15 @@ Beispiel 1 Ausgabe/Ergebnis:
 Beispiel 2 (Gleicher Wert) Ausgabe/Ergebnis:
 
 <img src="./AddFiles/Task1_example2.jpg" width=100% >
+   
+
+**a)** Fertigen Sie ein entsprechendes Struktrogramm an und laden Sie es unter der Bezeichnung "Kleinere_Zahl_STR.jpg" in den Ordner AddFiles hoch. 
+
+<img src="./AddFiles/Kleinere_Zahl_STR.jpg" width=50% >
+
+**b)** Implementieren Sie das Programm in C#.
+
+
 
 ---
   
@@ -103,8 +112,14 @@ Tabelle 62%.
 
 Beispiel Ausgabe/Ergebnis:
 
-<img src="./AddFiles/Task2_example.jpg" width=100% >
-  
+<img src="./AddFiles/Task2_example.jpg" width=100% >   
+
+**a)** Fertigen Sie ein entsprechendes Struktrogramm an und laden Sie es unter der Bezeichnung "Herzinfarkt_Risiko_STR.jpg" in den Ordner AddFiles hoch. 
+
+<img src="./AddFiles/Herzinfarkt_Risiko_STR.jpg" width=50% >
+
+**b)** Implementieren Sie das Programm in C#.
+
 ---
 
 ### Aufgabe 3: Rechner
@@ -125,7 +140,13 @@ Hinweis: Die Potenz einer Zahl berechnen Sie mit der Methode 'Math.Pow()'.
 
 Beispiel Ausgabe/Ergebnis:
 
-<img src="./AddFiles/Task3_example.jpg" width=100% >
+<img src="./AddFiles/Task3_example.jpg" width=100% >   
+
+**a)** Fertigen Sie ein entsprechendes Struktrogramm an und laden Sie es unter der Bezeichnung "Herzinfarkt_Risiko_STR.jpg" in den Ordner AddFiles hoch. 
+
+<img src="./AddFiles/Herzinfarkt_Risiko_STR.jpg" width=50% >
+
+**b)** Implementieren Sie das Programm in C#.
 
 ---
   
