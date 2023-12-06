@@ -1,0 +1,47 @@
+{
+    // Verwendet IntelliSense zum Ermitteln möglicher Attribute.
+    // Zeigen Sie auf vorhandene Attribute, um die zugehörigen Beschreibungen anzuzeigen.
+    // Weitere Informationen finden Sie unter https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Aufgabe1",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/Aufgabe1_Kleinere_Zahl/bin/Debug/net6.0/Aufgabe1_Kleinere_Zahl.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/Aufgabe1_Kleinere_Zahl",
+            "console": "integratedTerminal",
+            "stopAtEntry": false
+        },
+        {
+            "name": "Aufgabe2",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build1",
+            "program": "${workspaceFolder}/Aufgabe2_Herzinfarkt/bin/Debug/net6.0/Aufgabe2_Herzinfarkt.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/Aufgabe2_Herzinfarkt",
+            "console": "integratedTerminal",
+            "stopAtEntry": false
+        },
+        {
+            "name": "Aufgabe3",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build1",
+            "program": "${workspaceFolder}/Aufgabe3_Rechner/bin/Debug/net6.0/Aufgabe3_Rechner.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/Aufgabe3_Rechner",
+            "console": "integratedTerminal",
+            "stopAtEntry": false
+        },
+        
+        {
+            "name": ".NET Core Attach",
+            "type": "coreclr",
+            "request": "attach"
+        }
+    ]
+}
